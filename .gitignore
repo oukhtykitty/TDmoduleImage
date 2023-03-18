@@ -1,0 +1,9 @@
+doc/html
+doc/latex
+obj
+*.o
+.DS_Store
+bin/*
+lib/
+data/*
+.vscode
