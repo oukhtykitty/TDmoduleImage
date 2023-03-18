@@ -25,7 +25,7 @@ Ce module contient 2 classes:
 Ces 2 classes nous permettent d'inclure une ou plusieurs images dans notre code, qui sont formatées et peuvent être colorées pixel par pixel.
     
 Le module possède egalement 3 programmes:
-		- mainTest.cpp : une fois exécuté, il permet de tester les classes et de vérifier qu'elles sont correctement implémentées.
+	- mainTest.cpp : une fois exécuté, il permet de tester les classes et de vérifier qu'elles sont correctement implémentées.
         - mainExemple.cpp :  une fois exécuté, deux images seront générées et sauvegardées dans le dossier data.
         - mainAffichage.cpp : une fois éxécuté, affichera une fenêtre SDL2 avec une image à l'intérieur que nous pouvons faire agrandir et réduire. 
 
